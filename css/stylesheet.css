@@ -1,0 +1,185 @@
+Name: Milton Edwards
+ID: 620070358
+
+* { 
+    margin: 0; 
+    padding: 0; 
+}
+body { 
+    font: 16px Helvetica, Sans-Serif; 
+    line-height: 24px; 
+    background: url(/images/bg.png); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.space { 
+    clear: both; 
+    padding: 10px
+}
+#page-wrap { 
+    padding: 30px;
+    width: 800px; 
+    margin: 40px auto 60px; 
+    -webkit-box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 9px 2px rgba(0,0,0,0.3);
+    background-color: aliceblue;
+}
+#pro-pic { 
+    float: right; 
+    margin: 10px 30px 0 0; 
+    height: 200px;
+    width: 200px;
+    -webkit-box-shadow: 0px 10px 20px -6px rgba(0, 0, 0, 0.67);
+    -moz-box-shadow: 0px 10px 20px -6px rgba(0,0,0,0.67);
+    box-shadow: 0px 10px 20px -6px rgba(0,0,0,0.67);
+    -moz-transform: rotate(-15deg);
+    -webkit-transform: rotate(-15deg);
+    -o-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+}
+h1 { 
+    margin: 0 0 16px 0; 
+    padding: 0 0 16px 0; 
+    font-size: 42px; 
+    font-weight: bold; 
+    letter-spacing: -2px; 
+    border-bottom: 1px solid #999; 
+}
+h2 { 
+    font-size: 20px; 
+    margin: 0 0 6px 0; 
+    position: relative; 
+}
+h2 span { 
+    position: absolute; 
+    bottom: 0; 
+    right: 0; 
+    font-style: italic; 
+    font-family: Georgia, Serif; 
+    font-size: 16px; color: #999; 
+    font-weight: normal; 
+}
+p { 
+    margin: 0 0 16px 0; 
+}
+.email { 
+    color: #999; 
+    text-decoration: none; 
+    border-bottom: 1px dotted #999; 
+}
+p a:hover { 
+    border-bottom-style: solid; 
+    color: black; 
+}
+ul { 
+    margin: 0 0 32px 17px; 
+}
+#objective { 
+    width: 500px; 
+    float: left; 
+}
+#objective p { 
+    font-family: Georgia, Serif; 
+    font-style: italic; 
+    color: #797979; 
+}
+.main .side { 
+    font-style: italic; 
+    font-weight: bold; 
+    font-size: 18px; 
+    text-align: right; 
+    padding: 0 26px 0 0; 
+    width: 150px; float: left; 
+    height: 100px; 
+    border-right: 1px solid #999;  
+}
+.main .cont { 
+    width: 600px; 
+    float: right; 
+}
+.main .space { 
+    float: none; 
+    margin: 0; 
+    height: 15px; 
+}
+
+
+
+ul li a i{
+    color: #8e8e8e;
+    
+}
+.social ul li a {
+    text-decoration: none;
+}
+
+.social{
+    position: relative;
+    top: -40px;
+    width: 300px;
+    display: block;
+}
+.social ul {
+    padding: 0px;
+    -webkit-transform: translate(40px, 0);
+    -moz-transform: translate(40px, 0);
+    -ms-transform: translate(40px, 0);
+    -o-transform: translate(40px, 0);
+    transform: translate(40px, 0);
+}
+.social ul li i {
+    text-align: center;
+    margin-left: 10px;
+    color: #272727;
+    padding: 5px;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.social ul li {
+    display: inline;
+    padding: 8px;
+    font-size: 1.1em;
+    margin: 5px;
+    
+}
+
+.social ul li:hover i {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+.fa-facebook:hover{
+    color: #3B5998;
+}
+.fa-twitter:hover{
+    color: #00aced;;
+}
+.fa-instagram:hover{
+    color: #af3030;
+}
+
+
+
+
+
+
+
+
+
+
